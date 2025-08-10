@@ -7,4 +7,4 @@ I am an ameteur 3D artist (using [Blender](https://www.blender.org/)[^2], of cou
 *kin la toki pona li pona tawa mi*. I also like [toki pona](https://tokipona.org/), a language with only 137-ish words (there are some words that were added after its conception, some of which are controversial, so it depends on your preferences). It's very easy to learn and very fun to use, because you have to try to simplify what you're trying to say into a combination of various basic concepts.
 
 [^1]: Maybe I'll put a link here later, but don't count on it.
-[^2]: <img width="540" height="810" alt="Cover" src="https://github.com/user-attachments/assets/86527f08-5b05-488d-8d8d-e33d3d56ae47" />
+[^2]: <img width="270" height="405" alt="Cover" src="https://github.com/user-attachments/assets/86527f08-5b05-488d-8d8d-e33d3d56ae47" />
