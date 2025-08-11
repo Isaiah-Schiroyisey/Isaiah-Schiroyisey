@@ -1,5 +1,3 @@
-# About Me
-
 I'm Julian. My alias online is generally Isaiah Schiroyisey, since that's the pseuedonym I used to write my book, ""Trouts""[^1][^2]. I put that in double quotes because you use quotes to signify small works and the raw title itself includes quotation marks because I thought that would be funny. I can't really say what the book's about, nor can I tell you why, nor can I tell you why I can't tell you why, and so on (I promise it's not for pretentious reasons).
 
 I am an amateur 3D artist (using [Blender](https://www.blender.org/)[^2], of course).
